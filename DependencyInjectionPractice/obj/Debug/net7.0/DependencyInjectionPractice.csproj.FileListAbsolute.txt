@@ -1,0 +1,15 @@
+D:\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.exe
+D:\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.deps.json
+D:\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.runtimeconfig.json
+D:\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.dll
+D:\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.pdb
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.csproj.AssemblyReference.cache
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.AssemblyInfoInputs.cache
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.AssemblyInfo.cs
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.csproj.CoreCompileInputs.cache
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.dll
+D:\DependencyInjectionPractice\obj\Debug\net7.0\refint\DependencyInjectionPractice.dll
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.pdb
+D:\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.genruntimeconfig.cache
+D:\DependencyInjectionPractice\obj\Debug\net7.0\ref\DependencyInjectionPractice.dll

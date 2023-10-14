@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "veJDALa6ZZBUsQ/79l73AWcvbM6AeQcQwpFrTFadDDMx1SbfkLIaJMPPNrj+3+MMLqWe7zkIVGD2L+/cJ5zBGA==",
+  "success": true,
+  "projectFilePath": "D:\\Primeng\\Primeng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\selenium.webdriver.chromedriver\\115.0.5790.17000\\selenium.webdriver.chromedriver.115.0.5790.17000.nupkg.sha512"
+  ],
+  "logs": []
+}
